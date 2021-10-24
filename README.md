@@ -1,2 +1,2 @@
-# NFCDatas
-A software used for getting UID of a NFC card.
+# nfc-datas
+A software used to get UID of a NFC card.
